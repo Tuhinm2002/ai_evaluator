@@ -6,3 +6,5 @@ python-dotenv
 sentencepiece
 transformers
 accelerate
+pypdf
+torch
