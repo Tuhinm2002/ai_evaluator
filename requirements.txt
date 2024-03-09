@@ -1,5 +1,5 @@
 streamlit
-streamlit_etras
+streamlit_extras
 llama_index
 gradientai
 python-dotenv
